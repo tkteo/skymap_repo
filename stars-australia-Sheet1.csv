@@ -1,0 +1,64 @@
+name,id,desig,type,morph,con,mag,dim,bv,geometry,stories,role
+coalsack_nebula,C 99,C 99,dn,,,,430x300,,POINT -167.5 -62.5,emu,emu-head
+meissa,,lambda,,,orion,3.3298,,-0.16,POINT 83.7845 9.9342,sisters,pursuer
+bellatrix,,gamma,,,orion,1.5493,,-0.224,POINT 81.2828 6.3497,sisters,pursuer
+tabit,,pi3,,,orion,3.2862,,0.484,POINT 72.46 6.9613,sisters,pursuer
+alnitak,,zeta,,,orion,1.6812,,-0.199,POINT 85.1897 -1.9426,"sisters, brothers, thoegay","pursuer, brother, utimal"
+alnilam,,eta,,,orion,1.6235,,-0.184,POINT 84.0534 -1.2019,"sisters, brothers, thoegay","pursuer, brother, utimal"
+mintaka,,delta,,,orion,2.1361,,-0.175,POINT 83.0017 -0.2991,"sisters, brothers, thoegay","pursuer, brother, utimal"
+betelgeuse,,alpha,,,orion,0.4997,,1.5,POINT 88.7929 7.4071,"sisters, brothers, thoegay","pursuer, canoe-bow, utimal"
+rigel,,beta,,,orion,0.193,,-0.03,POINT 78.6345 -8.2016,"sisters, brothers, thoegay","pursuer, canoe-stern, utimal"
+orion_nebula,NGC 1976,M 42,bn,"EN+RN; 3, 2, 3",orion,4,,,POINT 83.8221 -5.3911,"sisters, brothers","pursuer, king-fish"
+saiph,,kappa,,,orion,2.0065,,-0.168,POINT 86.9391 -9.6696,"sisters, thoegay","pursuer, utimal"
+pleiades,M 45,M 45,sfr,l3rn,,1.2,110x110,,POINT 56.75 24.117,"sisters, thoegay","sisters, usal"
+girtab,,kappa,,,scorpius,2.3164,,-0.171,POINT -94.378 -39.03,thoegay,suckerfish
+shaula,,lambda,,,scorpius,1.5244,,-0.231,POINT -96.5978 -37.1038,thoegay,suckerfish
+lesath,,upsilon,,,scorpius,2.6043,,-0.179,POINT -97.309 -37.2958,thoegay,suckerfish
+hyades,C 41,C 41,oc,ll3m,,0.5,330,,POINT 66.75 15.8667,sisters,kambugudha
+,,eta,,,scorpius,3.4149,,0.441,POINT -101.9617 -43.2392,thoegay,suckerfish?
+sargas,,theta,,,scorpius,1.9269,,0.406,POINT -95.6703 -42.9978,thoegay,suckerfish?
+,,iota 1,,,scorpius,3.1092,,0.509,POINT -93.1038 -40.127,thoegay,suckerfish?
+paikauhale,,tau,,,scorpius,2.7374,,-0.206,POINT -111.0294 -28.216,thoegay,thoegays-canoe
+xamidimura,,mu 1,,,scorpius,2.9245,,-0.2,POINT -107.0324 -38.0474,thoegay,thoegays-canoe
+larawag,,epsilon,,,scorpius,2.4532,,1.144,POINT -107.4591 -34.2932,thoegay,thoegays-canoe
+,,zeta 1,,,scorpius,4.8394,,0.444,POINT -106.5011 -42.362,thoegay,thoegays-canoe
+alniyat,,sigma,,,scorpius,2.9227,,0.299,POINT -114.7029 -25.5928,thoegay,thoegays-canoe
+,,i,,,scorpius,4.7461,,-0.116,POINT -112.448 -25.1152,thoegay,thoegays-canoe
+,,epsilon,,,ara,4.2025,,1.452,POINT -105.104 -53.1604,thoegay,thoegays-canoe-bow
+,,eta,,,ara,3.876,,1.562,POINT -107.5535 -59.0414,thoegay,thoegays-canoe-bow
+,,beta,,,ara,2.9935,,1.479,POINT -98.675 -55.5299,thoegay,thoegays-canoe-bow
+choo,,alpha,,,ara,2.7869,,-0.136,POINT -97.0396 -49.8761,thoegay,thoegays-canoe-bow
+,,sigma,,,ara,4.5653,,-0.02,POINT -96.085 -46.5057,thoegay,thoegays-canoe-bow
+antares,,alpha,,,scorpius,0.9757,,1.865,POINT -112.6481 -26.432,thoegay,thoegays-canoe-kareg
+dschubba,,delta,,,scorpius,2.2617,,-0.117,POINT -119.9166 -22.6217,thoegay,thoegays-canoe-stern
+acrab,,beta 1,,,scorpius,2.594,,-0.065,POINT -118.6407 -19.8055,thoegay,thoegays-canoe-stern
+fang,,pi,,,scorpius,2.8274,,-0.18,POINT -120.287 -26.1141,thoegay,thoegays-canoe-stern
+,,phi,,,centaurus,3.7448,,-0.224,POINT -150.4322 -42.1008,thoegay,thoegays-chin
+,,nu,,,centaurus,3.3237,,-0.225,POINT -152.6238 -41.6877,thoegay,thoegays-eyes
+,,mu,,,centaurus,3.3969,,-0.17,POINT -152.5959 -42.4737,thoegay,thoegays-eyes
+,,gamma,,,lupus,2.7,,-0.216,POINT -126.2148 -41.1668,thoegay,thoegays-legs-knees
+,,epsilon,,,lupus,3.3138,,-0.191,POINT -129.3297 -44.6896,thoegay,thoegays-legs-knees
+muhlifain,,gamma,,,centaurus,2.146,,-0.023,POINT -169.6207 -48.9599,thoegay,thoegays-LH
+,,epsilon,,,centaurus,2.2097,,-0.171,POINT -155.0281 -53.4664,thoegay,thoegays-LH-elbow?
+al_nair,,zeta,,,centaurus,2.4419,,-0.176,POINT -151.1151 -47.2884,thoegay,thoegays-LH-shoulder?
+ginan,,epsilon,,,crucis,3.7319,,1.389,POINT -174.66 -60.4011,thoegay,thoegays-LH-spear
+rigil_kentaurus,,alpha,,,centaurus,0.1373,,0.71,POINT -140.0979 -60.834,thoegay,thoegays-LH-spear-end
+hadar,,beta,,,centaurus,0.5366,,-0.231,POINT -149.0441 -60.373,thoegay,thoegays-LH-spear-end
+,,v,,,centaurus,4.3627,,0.082,POINT -144.9186 -56.3865,thoegay,thoegays-LH-spear-end
+,,HD 125628,,,centaurus,4.9105,,0.795,POINT -144.3455 -58.4591,thoegay,thoegays-LH-spear-end
+acrux,,alpha,,,crucis,0.6739,,-0.243,POINT -173.3504 -63.0991,thoegay,thoegays-LH-spear-handle
+mimosa,,beta,,,crucis,1.1537,,-0.238,POINT -168.0697 -59.6888,thoegay,thoegays-LH-spear-handle
+gacrux,,gamma,,,crucis,1.6299,,1.6,POINT -172.2085 -57.1132,thoegay,thoegays-LH-spear-handle
+imai,,delta,,,crucis,2.7066,,-0.193,POINT -176.2137 -58.7489,thoegay,thoegays-LH-spear-handle
+,,a,,,centaurus,4.3518,,-0.185,POINT -144.2407 -39.5118,thoegay,thoegays-LH-spear-top
+,,eta,,,centaurus,2.2729,,-0.157,POINT -141.1232 -42.1578,thoegay,thoegays-navel
+,,pi,,,hydra,3.4187,,1.091,POINT -148.4071 -26.6824,thoegay,thoegays-RH-arm?
+,,gamma,,,hydra,3.1521,,0.92,POINT -160.2696 -23.1715,thoegay,thoegays-RH-arm?
+alchiba,,alpha,,,corvus,4.0991,,0.334,POINT -177.8966 -24.7289,thoegay,thoegays-RH-fruit
+kraz,,beta,,,corvus,2.8099,,0.893,POINT -171.4032 -23.3968,thoegay,thoegays-RH-fruit
+gienah,,gamma,,,corvus,2.5477,,-0.107,POINT -176.0485 -17.5419,thoegay,thoegays-RH-fruit
+algorab,,delta,,,corvus,2.9449,,-0.012,POINT -172.5339 -16.5154,thoegay,thoegays-RH-fruit
+minkar,,eta,,,corvus,3.1761,,1.326,POINT -177.4688 -22.6198,thoegay,thoegays-RH-fruit
+menkent,,theta,,,centaurus,2.2226,,1.011,POINT -148.3294 -36.37,thoegay,thoegays-RH-shoulder?
+ke kwan,,kappa,,,centaurus,3.0671,,-0.208,POINT -135.2096 -42.1042,thoegay,thoegays-testes
+kekouan,,beta,,,lupus,2.5982,,-0.184,POINT -135.367 -43.134,thoegay,thoegays-testes
